@@ -7,7 +7,7 @@
   command:
 
 ```bash
-ansible-playbook -e @vars.yml hw4.yml
+ansible-playbook -e @vars.yml main.yml
 ```
 
 
